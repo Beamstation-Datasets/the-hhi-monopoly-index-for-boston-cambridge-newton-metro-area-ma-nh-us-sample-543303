@@ -1,12 +1,12 @@
 {
-  "export_job_id": "fd5098d5-2979-4d42-910a-74abe4e4d6ed",
+  "export_job_id": "ae46d46d-e8f4-4ced-a8cc-92b351375bef",
   "id_short": 543303,
-  "published_at": "2026-04-12T19:59:52Z",
+  "published_at": "2026-04-18T19:19:26Z",
   "repo_name": "the-hhi-monopoly-index-for-boston-cambridge-newton-metro-area-ma-nh-us-sample-543303",
   "sample_asset_name": "beamstation_543303_restaurants-us-bostoncambridgenewtonmanh_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/543303/beamstation_543303_restaurants-us-bostoncambridgenewtonmanh_SAMPLE_DIST.csv",
-  "sample_records": 41,
-  "sample_sha256": "c27f1f446382e9e311c89d95316976a12bb9b5609de17f3ac7e18da7d1c17018",
-  "sample_size_bytes": 178238,
-  "total_records": 411
+  "sample_records": 37,
+  "sample_sha256": "9ba625e1dbed93a86a306a5da132c15e90b14ae2ada89ccc0a72f837260649bd",
+  "sample_size_bytes": 158359,
+  "total_records": 379
 }
