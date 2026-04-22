@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Boston-Cambridge-Newton Metro Area, MA-NH, US
 
-> Free BeamStation sample export with 37 rows and masked direct-contact fields.
+> Free BeamStation sample export with 33 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `543303` |
 | Location | Boston-Cambridge-Newton, MA-NH |
 | Category | Restaurants |
-| Full dataset size | 379 records |
-| Free sample size | 37 records (9.76%) |
-| Last export | 2026-04-15T06:15:35.754479+00:00 |
+| Full dataset size | 334 records |
+| Free sample size | 33 records (9.88%) |
+| Last export | 2026-04-22T12:15:01.660812+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-boston-cambridge-newton-metro-area-ma-nh-us-sample-543303/releases/download/sample-latest/beamstation_543303_restaurants-us-bostoncambridgenewtonmanh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
